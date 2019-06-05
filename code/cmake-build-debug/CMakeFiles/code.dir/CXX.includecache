@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/GeoProgression.h
+
+/home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/Prograssion.h
+GeoProgression.h
+/home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/GeoProgression.h
+
+/home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/main.cpp
+iostream
+-
+Prograssion.h
+/home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/Prograssion.h
+

@@ -1,0 +1,4 @@
+/home/jeanlee/Documents/Programs/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jeanlee/Documents/CLion/POO/011/unidad-5-stl-iteradores-JeanleeRoy/code/cmake-build-debug
